@@ -83,6 +83,6 @@ test:
 #
 production:
   <<: *default
-  database: flixter_production
-  #username: flixter
-  #password: <%= ENV['FLIXTER_DATABASE_PASSWORD'] %>
+  database: dgepkuu391mk5
+  username: skozhjdejktvam
+  password: <%= ENV['FLIXTER_DATABASE_PASSWORD'] %>
