@@ -1,24 +1,10 @@
-# README
+# Flixter
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A two-sided video-streaming marketplace platform.
 
-Things you may want to cover:
+# Features
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- Built on Rails
+- Mobile-responsive
+- Credit card payment capabilities (via the Stripe API)
+- User role management (e.g. instructors and students)
