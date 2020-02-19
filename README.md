@@ -16,5 +16,5 @@ A two-sided video-streaming marketplace platform.
 - Bootstrap
 - Devise
 - Carrierwave
-- Jquery
+- jQuery
 - VideoJS
